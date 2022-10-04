@@ -1,12 +1,9 @@
-# AHKFunctionKeysSolution
-A simple code allowing someone using a keyboard without the FN keys to use AHK in order to fix it.
+<h1 id="title" align="center">AHK Function Keys Solution</h1>
 
-USEFUL LINKS:
+<p id="description">This script is directed torwards people that want an easy way to control the multimedia functions on its computer but don't have a keyboard with the FN functions either available or working.</p>
 
-AHK: https://www.autohotkey.com/
-
-AHK Keylist: https://www.autohotkey.com/docs/KeyList.htm
-
+You need [Autohotkey](https://www.autohotkey.com/).
+I recommend checking the [Keybinds](https://www.autohotkey.com/docs/AutoHotkey)
 
 
 
