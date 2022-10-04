@@ -3,7 +3,8 @@
 <p id="description">This script is directed torwards people that want an easy way to control the multimedia functions on its computer but don't have a keyboard with the FN functions either available or working.</p>
 
 You need [Autohotkey](https://www.autohotkey.com/).
-I recommend checking the [Keybinds](https://www.autohotkey.com/docs/AutoHotkey)
+
+I recommend checking the [Keybinds](https://www.autohotkey.com/docs/AutoHotkey) for further customization to your liking.
 
 
 
