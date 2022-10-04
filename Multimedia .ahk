@@ -1,6 +1,8 @@
 ;simple code allowing the usage of ahk and binds to fix keyboards without the FN keys (like the one I use at work)
 ;made by lucas holanda.
 ;by AHK standards: the key that emulates FN in this code is CTRL, but feel free to change it.
+;I seriously recommend checking the AHK wiki regarding specific key meanings.
+
 
 ;here the end key plays and pauses media.
 ^End::
